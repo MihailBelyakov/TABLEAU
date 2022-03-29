@@ -1,0 +1,3 @@
+2 дашбрда, стастика прибыли, выручки по годам регионам категориям сегментам и работа менеджеров в разных разрезах,
+ с возможность выбора KPI
+https://public.tableau.com/views/_16481297721740/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
